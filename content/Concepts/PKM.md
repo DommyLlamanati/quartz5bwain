@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /Concepts/PKM.md
 created: 2026-10-26T00:33:23.978Z
 modified: 2026-10-26T00:35:17.950Z
 ---
