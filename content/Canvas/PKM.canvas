@@ -3,14 +3,24 @@
 		{
 			"id":"9abe05ba6269a983",
 			"type":"text",
-			"text":"# PKM Canvas \n\nWelcome to it mfs ",
+			"text":"# PKM Canvas \n\nWelcome to it mfs \n\n",
 			"styleAttributes":{
 				"shape":null
 			},
-			"x":-1260,
-			"y":-600,
+			"x":-1280,
+			"y":-1880,
 			"width":1460,
 			"height":600
+		},
+		{
+			"id":"7337c3ead9a1f893",
+			"type":"text",
+			"text":"# H1\n## H2\n### H3\n#### H4\n##### H5\n###### H6\n",
+			"styleAttributes":{},
+			"x":-1280,
+			"y":-2240,
+			"width":260,
+			"height":300
 		}
 	],
 	"edges":[],
